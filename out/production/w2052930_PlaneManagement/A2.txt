@@ -1,0 +1,8 @@
+Ticket Information
+Name: Thaviru
+Surname: H
+Email: thaviruhetti@gmail.com
+Row: A
+Seat: 2
+Price: €200.0
+
